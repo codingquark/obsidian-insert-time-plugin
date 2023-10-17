@@ -4,8 +4,8 @@ export default class InsertTime extends Plugin {
     async onload() {
         // This adds an editor command that can perform some operation on the current editor instance
         this.addCommand({
-            id: 'sample-editor-command',
-            name: 'Sample editor command',
+            id: 'insert-timestamp-command',
+            name: 'Insert current time',
             editorCallback: (editor, _) => {
                 const cursor = editor.getCursor();
 
