@@ -1,0 +1,11 @@
+{
+    "id": "insert-time-plugin",
+    "name": "Insert Time Plugin",
+    "version": "0.1.0",
+    "minAppVersion": "0.15.0",
+    "description": "A simple Obsidian plugin that inserts the current time in hh:mm format.",
+    "author": "Dhavan",
+    "authorUrl": "https://obsidian.md",
+    "fundingUrl": "https://obsidian.md/pricing",
+    "isDesktopOnly": true
+}
